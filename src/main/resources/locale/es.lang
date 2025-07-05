@@ -13,6 +13,7 @@ swireddropper=Soltador Cableado (Stack)
 
 [mob]
 mechanichuman=Mecánico
+mechanichumanname=<name>, el Mecánico
 
 [itemtooltip]
 conveyortip=Transporta items y mueve mobs en una dirección

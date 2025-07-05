@@ -12,7 +12,8 @@ sdropper=Dropper (Stack)
 swireddropper=Wired Dropper (Stack)
 
 [mob]
-mechanichuman=Mecánico
+mechanichuman=Mechanic
+mechanichumanname=<name> the Mechanic
 
 [itemtooltip]
 conveyortip=Transports items and moves mobs in one direction
