@@ -1,0 +1,34 @@
+[object]
+conveyor=Conveyor
+splitterconveyor=Splitter Conveyor
+wiredconveyor=Wired Conveyor
+rfilterconveyor=Filter Conveyor (R)
+lfilterconveyor=Filter Conveyor (L)
+inserter=Inserter
+wiredinserter=Wired Inserter
+idropper=Dropper (Item)
+iwireddropper=Wired Dropper (Item)
+sdropper=Dropper (Stack)
+swireddropper=Wired Dropper (Stack)
+
+[mob]
+mechanichuman=Mecánico
+
+[itemtooltip]
+conveyortip=Transports items and moves mobs in one direction
+splitterconveyortip=Each item and mob will randomly go in one direction or the other
+filterconveyortip=Redirects items that don't match any\nof the ones stored internally to one side
+wiredconveyortip=Reverses its direction when activated by wire
+
+insertertip=Inserts items from above into the object in front
+wiredinsertertip=Inserts items when activated by wire
+
+droppertip=Drop items from the object behind it forward
+wireddroppertip=Drop items when activated by wire
+
+[mobmsg]
+mechanictalk1=Why did I get kicked out of my last colony? That's something I'm keeping to myself
+mechanictalk2=I don't deny my parts to anyone, but the dangerous stuff... I sell it expensive to those I don't know
+mechanictalk3=A good mechanic never gives up, even when the technical problem seems unsolvable
+mechanictalk4=Building is just the beginning; understanding each part is what makes the difference
+mechanictalk5=They say the creator of AutoNecesse also made AphoreaMod and several other mods. Why not check them out?

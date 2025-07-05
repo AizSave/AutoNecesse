@@ -1,0 +1,34 @@
+[object]
+conveyor=Cinta Transportadora
+splitterconveyor=Cinta Separadora
+wiredconveyor=Cinta Transportadora Cableada
+rfilterconveyor=Cinta Filtradora (Der)
+lfilterconveyor=Cinta Filtradora (Izq)
+inserter=Insertor
+wiredinserter=Insertor Cableado
+idropper=Soltador (Item)
+iwireddropper=Soltador Cableado (Item)
+sdropper=Soltador (Stack)
+swireddropper=Soltador Cableado (Stack)
+
+[mob]
+mechanichuman=Mecánico
+
+[itemtooltip]
+conveyortip=Transporta items y mueve mobs en una dirección
+splitterconveyortip=Cada item y mob irá aleatoriamente en una dirección u otra
+filterconveyortip=Redirige los ítems que no coincidan con alguno\nde los almacenados internamente hacia un costado
+wiredconveyortip=Invierte su dirección al estar activado por cable
+
+insertertip=Inserta los ítems que haya encima en el objeto situado al frente
+wiredinsertertip=Inserta los ítems al activarse por cable
+
+droppertip=Expulsa los ítems del objeto trasero hacia adelante
+wireddroppertip=Expulsa los ítems al activarse por cable
+
+[mobmsg]
+mechanictalk1=¿Por qué me echaron de mi última colonia? Eso me lo guardo para mí
+mechanictalk2=No le niego mis piezas a nadie, pero lo peligroso... Se lo dejo caro a quienes no conozco
+mechanictalk3=Un buen mecánico no se rinde nunca, ni aunque el problema técnico no parezca tener solución
+mechanictalk4=Construir es solo el principio; entender cada pieza es lo que hace la diferencia
+mechanictalk5=Dicen que el creador de AutoNecesse también hizo AphoreaMod y varios otros mods ¿Por qué no les das un vistazo?
